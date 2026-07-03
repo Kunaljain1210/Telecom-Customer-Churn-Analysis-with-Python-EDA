@@ -1,5 +1,3 @@
-# Telecom-Customer-Churn-Analysis-with-Python-EDA
-
 📞 Telecom Customer Churn Analysis using Python (EDA)
 📌 Project Overview
 
