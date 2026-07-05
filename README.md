@@ -36,7 +36,7 @@ The primary objectives of this project are to:
   PaymentMethod – Customer payment method
   MonthlyCharges – Monthly bill amount
   TotalCharges – Total amount charged
-  Churn – Customer churn status
+  Churn – Customer churn status.
 
 🛠️ Project Workflow
 1️⃣ Data Cleaning
